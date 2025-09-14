@@ -1,5 +1,8 @@
 # QR-Code-Reader-
-Made in Turbowarp. Reads and Creates QR Codes!
+[`Made in Turbowarp`](https://turbowarp.org/editor) <br> Reads and Creates QR Codes!
 
-## credits
-Uses [Sharkpool's](https://sharkpools-extensions.vercel.app/) [QR Codes](https://sharkpools-extensions.vercel.app/extension-code/QR-Codes.js) turbowarp extension to read and create QR codes, this site is really just a wrapper.
+## Demo
+https://casters-unite.github.io/QR-Code-Reader-/
+
+## Credits
+Uses [Sharkpool's](https://sharkpools-extensions.vercel.app/) [QR Codes](https://sharkpools-extensions.vercel.app/extension-code/QR-Codes.js) turbowarp extension to read and create QR codes, this site is really just a wrapper to make using it easier.
